@@ -46,6 +46,22 @@ a:hover {
   border-radius: 4px;
 }
 
+.btn-menu {
+  background-color: #b2cede;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.list-menu > li {
+  display: inline-block;
+  padding: 0px;
+}
+
+.list-menu {
+  list-style: none;
+  padding-left: 0px;
+}
+
 .list-inline > li {
   display: inline-block;
   padding: 0px 20px;
